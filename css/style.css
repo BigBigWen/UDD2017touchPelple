@@ -1,3 +1,4 @@
+
 @charset "utf-8";
 /* Simple fluid media
    Note: Fluid media requires that you remove the media's height and width attributes from the HTML
@@ -171,6 +172,7 @@ body{ font-family:"微软雅黑";}
 	background-size: 100%;
 	width: 80%;
 	height: 4rem;
+	margin-top: 2rem;
 }
 		
 .gotoone{
